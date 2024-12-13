@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/tuw_geometry-release
+release_repo_url: git@github.com:revyos-ros/tuw_geometry-release.git
 tracks:
   humble:
     actions:
